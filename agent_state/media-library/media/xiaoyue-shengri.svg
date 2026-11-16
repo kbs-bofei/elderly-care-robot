@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="460" viewBox="0 0 640 460">
+<defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#fbe6ef"/><stop offset="1" stop-color="#f6d9e5"/></linearGradient></defs>
+<rect width="640" height="460" fill="url(#bg)"/>
+<path d="M80 200q240-120 480 0v20H80z" fill="#ef9fbb"/>
+<path d="M100 220h440v180H100z" fill="#fbeef3"/>
+<path d="M270 400h100v-90H270z" fill="#e07a9f"/>
+<path d="M320 220v90" stroke="#fff" stroke-width="4"/>
+<path d="M320 250q-40-30-70 0 30 30 70 0zM320 250q40-30 70 0-30 30-70 0z" fill="#ffd166"/>
+<circle cx="180" cy="140" r="16" fill="#ffd166"/><circle cx="460" cy="130" r="16" fill="#a8d8c0"/><circle cx="400" cy="165" r="12" fill="#ffb3c6"/>
+<circle cx="320" cy="345" r="26" fill="#ffd9b8"/><circle cx="315" cy="340" r="3" fill="#8a5a3b"/><circle cx="325" cy="340" r="3" fill="#8a5a3b"/><path d="M312 353q8 8 16 0" stroke="#8a5a3b" stroke-width="3" fill="none" stroke-linecap="round"/>
+<text x="320" y="440" font-family="'Microsoft YaHei',sans-serif" font-size="22" fill="#b25a79" text-anchor="middle">小雨的生日</text>
+</svg>

@@ -1,0 +1,9 @@
+{
+  "name": "xiaonuan-agent",
+  "version": "0.1.0",
+  "description": "小暖 · 去平台化的老年陪伴智能体最小原型",
+  "type": "module",
+  "scripts": {
+    "start": "node runtime/server.mjs"
+  }
+}

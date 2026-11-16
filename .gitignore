@@ -1,0 +1,15 @@
+# 真实 API 密钥，绝不能提交
+config.json
+
+# 环境变量与密钥文件
+.env
+.env.*
+*.key
+*.pem
+
+# 运行时日志
+*.log
+
+# 依赖与缓存
+node_modules/
+.DS_Store

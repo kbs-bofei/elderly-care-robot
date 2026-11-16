@@ -1,0 +1,26 @@
+{
+  "elder": {
+    "name": "陈奶奶",
+    "preferred_address": "奶奶",
+    "notes": "78岁，轻微认知障碍，住在家里，女儿每周来看两次。"
+  },
+  "people": [
+    { "id": "daughter", "name": "陈静", "relation": "女儿", "call": "静静", "notes": "每周二、周六来看望；喜欢喝绿茶。" },
+    { "id": "granddaughter", "name": "小雨", "relation": "孙女", "call": "小雨", "notes": "陈静的女儿，上个月刚考上大学，在省外读书。" },
+    { "id": "caregiver", "name": "王阿姨", "relation": "照护者", "call": "王姐", "notes": "每天上午来帮忙做家务、量血压。" },
+    { "id": "doctor", "name": "李医生", "relation": "家庭医生", "call": "李大夫", "notes": "社区卫生中心，负责高血压复诊。" }
+  ],
+  "habits": [
+    { "topic": "饮食", "detail": "早上爱喝小米粥，中午要午睡一小时。" },
+    { "topic": "作息", "detail": "晚上九点半左右睡，早上六点半起。" },
+    { "topic": "爱好", "detail": "喜欢听黄梅戏，尤其《天仙配》；爱在阳台侍弄花草。" }
+  ],
+  "health": [
+    { "topic": "高血压", "detail": "每天早饭后吃一片降压药，药盒在客厅电视柜第二层。" },
+    { "topic": "复诊", "detail": "每月第一个星期三去社区卫生中心量血压、复诊。" }
+  ],
+  "anniversaries": [
+    { "date": "1982-05-20", "name": "结婚纪念日", "notes": "老伴已去世，提及需谨慎，除非老人主动说起。" },
+    { "date": "2001-09-10", "name": "小雨生日", "notes": "孙女小雨的生日。" }
+  ]
+}

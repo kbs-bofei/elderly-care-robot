@@ -1,0 +1,12 @@
+{
+  "name": "local-time",
+  "description": "Adds the current local date and time to every prompt, together with the plain spoken form an elderly user would hear.",
+  "description_zh": "为每条 Prompt 附上当前本地日期与时间，并给出老人听得懂的口语说法。",
+  "version": "2026.11.08.1",
+  "user_prompt": [
+    {
+      "command": "time.mjs",
+      "timeout": 10
+    }
+  ]
+}

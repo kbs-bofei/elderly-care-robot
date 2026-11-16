@@ -1,0 +1,2 @@
+- [想要能直接用的智能体](wants-usable-agent-not-just-config.md) — 只交配置文件算半成品，默认再多做一层能直接上手的交互界面
+- [想听戏（候选）](wants-to-hear-opera.md) — 老人自己说想听段戏，还没问到是哪一出；候选记忆，引用前先求证

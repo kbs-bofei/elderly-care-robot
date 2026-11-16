@@ -1,0 +1,23 @@
+[
+  {
+    "file": "media/xiaoyue-man-yue.svg",
+    "takenAt": "2001-09-12",
+    "caption": "孙女小雨满月那天，一家人围着小摇篮笑",
+    "people": ["小雨", "陈静"],
+    "tags": ["满月", "家人", "高兴"]
+  },
+  {
+    "file": "media/gongyuan-sanbu.svg",
+    "takenAt": "2019-04-10",
+    "caption": "春天在公园散步，花儿都开了",
+    "people": ["陈奶奶"],
+    "tags": ["公园", "散步", "春天"]
+  },
+  {
+    "file": "media/xiaoyue-shengri.svg",
+    "takenAt": "2023-09-10",
+    "caption": "小雨的生日，蛋糕上点着蜡烛",
+    "people": ["小雨", "陈奶奶"],
+    "tags": ["生日", "小雨", "蛋糕"]
+  }
+]
